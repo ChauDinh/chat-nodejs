@@ -23,3 +23,12 @@
      - Install `pm2` - a npm package to run background
   3. Run app (pm2)
   4. Out server
+
+### Build Docker Image
+
+- Docker image: OS (Linux, nginx server, ...)
+- Build docker image:
+  - Choosing operating system
+  - Setup environment
+  - Copy code
+  - Choose PORT for running app and expose this PORT

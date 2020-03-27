@@ -2,7 +2,7 @@
   "name": "chatcord",
   "version": "0.1.0",
   "description": "A simple websocket realtime chat application",
-  "main": "server.js",
+  "main": "src/server.js",
   "author": "Chau Dinh <chaudvb95uc@gmail.com>",
   "license": "MIT",
   "scripts": {
